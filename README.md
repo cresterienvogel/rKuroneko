@@ -1,6 +1,8 @@
 # Description
 Telegram bot that provides NSFW content.
 
+Available at @rkuroneko_bot.
+
 # Required node modules
 * fs (0.0.1 or higher)
 * node-fetch (2.6.1 or higher)
