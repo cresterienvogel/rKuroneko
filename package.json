@@ -1,0 +1,12 @@
+{
+  "name": "rkuroneko",
+  "version": "1.0.0",
+  "description": "Telegram bot that provides NSFW content",
+  "author": "crester",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "telegram-bot-api": "^2.0.1"
+  }
+}
